@@ -4,6 +4,7 @@ function App() {
 
   return (
     <>
+      <link rel="manifest" href="/manifest.json" />
       <div>Test PWA </div>
     </>
   )
